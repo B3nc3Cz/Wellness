@@ -3,7 +3,18 @@ body{
 }
 .fejlec{
     font-size: 20px;
+    font-style: italic;
+    color: black;
+    
 }
+.fejlec:active{
+    
+}
+.fejlec:hover{
+    color: red;
+    
+                }
+
 .cim{
     margin-left: -40px;
     }
