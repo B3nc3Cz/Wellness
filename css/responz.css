@@ -1,0 +1,10 @@
+@media(max-width: 600px){
+    #nnav{display: block;
+            display: none;}
+
+    header{display: none;}
+
+    #tnav{display: inline;}
+
+    .m{width: 15%;}
+}
