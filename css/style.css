@@ -20,5 +20,123 @@ body{
 
 .cimek{
     text-align: center;
+    text-decoration: underline;
 }
 #tnav{display: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.latnivalo{font-style: italic;
+           font-weight: bold;
+           text-align: center;}
+
+
+
+
+.latnivalo2{font-style: italic;
+            font-weight: bold;
+            text-align: center;}
+
+.latnivalo3{font-style: italic;
+    font-weight: bold;
+    text-align: center;}
+
+
+
+
+
+.kristaly1{height: 300px;
+           text-align: left;
+           padding-left: 100px;}
+
+.kepnev1{text-align: center;
+        text-decoration: underline;}
+
+
+
+.Plazs1{height: 300px;
+        text-align: center;
+        padding-left: 100px;}
+
+.viztorony{height: 300px;
+            text-align: center;
+            padding-left: 100px;}
+
+
+.Balaton1{text-align: center;
+          text-decoration: underline;
+          font-style: italic;}
+
+
+
+.balatonleir{text-align: justify;
+             text-align: center;
+             font-style: italic;
+             font-weight: bold;
+            }
+
+
+.Balaton4{height: 400px;
+          width: 70%;
+          padding-left: 600px;}
+
+
+
+        
