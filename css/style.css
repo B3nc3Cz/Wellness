@@ -10,12 +10,13 @@ body{
    
 .ul{    
     margin-top: -50px;
-    margin-left: 650px;
+    margin-left: 550px;
 }
 .nav-link:hover{
-    color: red;
+    color: darkblue;
     
 }
+
 
 .cimek{
     text-align: center;
