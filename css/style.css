@@ -4,8 +4,19 @@ body{
 .cim{
     margin-left: -40px;
     }
-.cimkep{margin-top: -10px;
-    margin-left: -10px;
+.cimkep{
+    margin-top: -10px;
+    margin-left: -10px;}
    
+.ul{    
+    margin-top: -50px;
+    margin-left: 650px;
+}
+.nav-link:hover{
+    color: red;
+    
+}
 
-
+.cimek{
+    text-align: center;
+}
