@@ -5,26 +5,56 @@ body{
     
 }
 footer{
-    border-top: 5px solid black;
+    border-top: 5px solid #abbec2;
    
 }
 article{
     margin-bottom: 10px;
 }
 .szoveg{
-    text-align: center;
+    text-align: left;
     font-size: larger;
     padding-right: 80px;
     padding-left: 80px;
     font-weight: bolder;
 }
-.fejlec{margin-left: 110px;
+.keep1{height: 220px;
+        margin-left: -70px;
+        border-radius: 10px;
+        font: 1em sans-serif;
+        margin-top: -50px;
+}
+.keep1cim{padding-left: 50px;
+            font-style: italic;}
+
+.keep2{height: 240px;
+    border-radius: 10px;
+    font: 1em sans-serif;
+    margin-top: 20px;}
+
+.keep2cim{padding-left: 90px;
+    font-style: italic;
+}
+.keep3{height: 240px;
+    border-radius: 10px;
+    font: 1em sans-serif;
+    margin-top: 20px;
+    margin-left: -70px;
+}
+
+.keep3cim{padding-left: 50px;
+    font-style: italic;}
+
+
+.lablec{margin-left: 110px;
     margin-top: 50px;}
+
 .utca{text-decoration: none;}
 
 .cim{
     margin-left: -40px;
     }
+
 .cimkep{
     margin-top: -10px;
     margin-left: -10px;}
@@ -33,6 +63,7 @@ article{
     margin-top: -50px;
     margin-left: 550px;
 }
+
 .nav-link:hover{
     color: darkblue;
     
@@ -43,6 +74,7 @@ article{
     text-align: center;
     text-decoration: underline;
 }
+
 #tnav{display: none;}
 
 
