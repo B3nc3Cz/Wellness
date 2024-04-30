@@ -1,6 +1,27 @@
 body{
-    background-image: url(https://grendesign.com.au/wp-content/uploads/2017/03/pattern-design_rosebud-wellness-pavilion4-1.jpg);}
+    background-image: url(https://grendesign.com.au/wp-content/uploads/2017/03/pattern-design_rosebud-wellness-pavilion4-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+footer{
+    border-top: 5px solid black;
    
+}
+article{
+    margin-bottom: 10px;
+}
+.szoveg{
+    text-align: center;
+    font-size: larger;
+    padding-right: 80px;
+    padding-left: 80px;
+    font-weight: bolder;
+}
+.fejlec{margin-left: 110px;
+    margin-top: 50px;}
+.utca{text-decoration: none;}
+
 .cim{
     margin-left: -40px;
     }
