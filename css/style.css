@@ -92,6 +92,7 @@ article{
     margin-left: 200px;
     z-index: 1000;
     position: relative;
+    border-radius: 10px;
 }
          
 .pkep{ 
@@ -130,7 +131,8 @@ article{
     margin-top: -200px;
     margin-left: 800px;
     z-index: 1000;
-    position: relative;}
+    position: relative;
+    border-radius: 10px;}
 
 .foglalas1{
     border-radius: 10px;
@@ -157,9 +159,56 @@ article{
     z-index: -20;
     margin-bottom: 30px;
 }
+.info2:hover{
+    background-color: rgba(59, 202, 167, 0.7);
+}
+.foglalasi{
+    background-color: rgba(154, 105, 15, 0.3);
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+    text-align: left;
+    
+    
+}
+.foglalasii{
+    background-color: rgba(83, 79, 70, 0.3);
+    margin-left: 20px;
+    border-radius: 10px;
+    size: 10px;
+    height: max-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
-
-
+.nev{
+    font-size: large;
+    font-weight: initial;
+    
+}
+input{
+    border: none;
+   margin-bottom: 10px;
+   margin-left: 20px;
+}
+label{
+    font-size: large;
+   
+    border-radius: 5px;
+    
+}
+.vissza, .vissza:hover{
+    background-color: rgba(59, 202, 167, 0.7);
+    margin-top: 10px;
+}
+.foglalas, .foglalas:hover{
+    background-color: rgba(59, 202, 167, 0.7);
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.cim1{
+    text-align: center;
+}
 
 
 
