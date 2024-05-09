@@ -81,6 +81,7 @@ article{
         border-radius: 10px;
         background-color: rgba(154, 105, 15, 0.3);
         z-index: -20;
+        margin-bottom: 30px;
 
 }
 .prszoba{background-color: rgba(59, 202, 167, 0.7);
@@ -89,7 +90,8 @@ article{
     text-align: center;
     margin-top: 40px;
     margin-left: 200px;
-    z-index: 20;
+    z-index: 1000;
+    position: relative;
 }
          
 .pkep{ 
@@ -98,10 +100,63 @@ article{
     height: 300px;
     z-index: 10;
     border-radius: 10px;
+    margin-left: 10px;
 }
 .prszoveg{margin-left: 430px;
             margin-top: -220px;}
+.info1{
+        margin-left: 1000px;
+        font-size: 30px;
+        margin-bottom: 35px;
+        background-color: rgba(59, 202, 167, 0.7);}
+    
+.info1:hover{
+    background-color: rgba(59, 202, 167, 0.7);
+}
 
+.delkep{
+    margin-top: 25px;
+    position:relative;
+    height: 300px;
+    z-index: 10;
+    border-radius: 10px;
+   
+}
+.delszoba{
+    background-color: rgba(59, 202, 167, 0.7);
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 800px;
+    z-index: 1000;
+    position: relative;}
+
+.foglalas1{
+    border-radius: 10px;
+        background-color: rgba(154, 105, 15, 0.3);
+        z-index: -20;
+        margin-bottom: 50px;
+        margin: auto;
+}
+.delszoveg{
+    margin-top: 70px;
+}
+.info2{
+    margin-top: -70px;
+    font-size: 30px;
+    margin-bottom: 35px;
+    background-color: rgba(59, 202, 167, 0.7);
+    margin-left: 100px;}
+
+.foglalas2{
+    margin-top: 30px;
+    background-color: rgba(154, 105, 15, 0.3);
+    border-radius: 10px;
+    
+    z-index: -20;
+    margin-bottom: 30px;
+}
 
 
 
