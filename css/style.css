@@ -77,7 +77,7 @@ article{
 }
 
 #tnav{display: none;}
-.foglalas{
+.foglalass{
         border-radius: 10px;
         background-color: rgba(154, 105, 15, 0.3);
         z-index: -20;
@@ -186,10 +186,15 @@ article{
     font-weight: initial;
     
 }
+::placeholder{color: rgba(0, 0, 0, 0.842);
+                font-style: italic;}
 input{
     border: none;
    margin-bottom: 10px;
    margin-left: 20px;
+   background-color: rgba(114, 110, 100, 0.7);
+   color: rgb(0, 0, 0);
+   font-style: italic;
 }
 label{
     font-size: large;
@@ -199,20 +204,30 @@ label{
 }
 .vissza, .vissza:hover{
     background-color: rgba(59, 202, 167, 0.7);
-    margin-top: 10px;
+    margin-top: 20px;
+    
 }
 .foglalas, .foglalas:hover{
     background-color: rgba(59, 202, 167, 0.7);
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    margin-top: -24px;
     margin-left: 100px;
+    text-align: center;
 }
 .cim1{
     text-align: center;
 }
-
-
-
-
+.fogkep{
+    
+    position:relative;
+    height:400px;
+    z-index: 10;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.ures{
+    margin-left: 88px;
+}
 
 
 
