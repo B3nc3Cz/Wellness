@@ -106,7 +106,8 @@ article{
     margin-left: 10px;
 }
 .prszoveg{margin-left: 430px;
-            margin-top: -220px;}
+            margin-top: -220px;
+            text-align: justify;}
 .info1{
         margin-left: 1000px;
         font-size: 30px;
@@ -145,6 +146,7 @@ article{
 }
 .delszoveg{
     margin-top: 70px;
+    text-align: justify;
 }
 .info2{
     margin-top: -70px;
