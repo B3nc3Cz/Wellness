@@ -73,6 +73,7 @@ article{
 
 .cimek{
     text-align: center;
+
     
 }
 .cfoglalas{text-align: center;}
@@ -349,7 +350,15 @@ label{
 
 
 
+.kepp1{height: 400px;
+width: 300px;
+padding-left: 50px;}
 
+#hj1{padding-left: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.szovegg1{margin-left: 35px;}
 
 
 
