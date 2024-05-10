@@ -62,7 +62,7 @@ article{
    
 .ul{    
     margin-top: -50px;
-    margin-left: 700px;
+    margin-left: 600px;
 }
 
 .nav-link:hover{
@@ -234,7 +234,51 @@ label{
     margin-left: 88px;
 }
 
+.gkep1{
+    background-color: rgba(154, 105, 15, 0.3);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    margin: left;
+    margin-left: 10px;
+}
+.gkep11{
+   width: 400px;
+    border-radius: 10px;
+    margin: auto;
+   margin-left: -10px;
+   
+}
 
+.gkep2{
+    background-color: rgba(154, 105, 15, 0.3);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+.gkep3{
+    background-color: rgba(154, 105, 15, 0.3);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    
+    
+}
+.gkep4{
+    background-color: rgba(154, 105, 15, 0.3);
+    height: 350px;
+    width: 350px;
+    border-radius: 10px;
+    
+    
+}
+.gkepmappa{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
 
 
 
