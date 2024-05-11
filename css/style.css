@@ -234,61 +234,147 @@ label{
     margin-left: 88px;
 }
 
-.gkep1{
-    background-color: rgba(154, 105, 15, 0.3);
-    height: 350px;
-    width: 350px;
+.hotel1{
+    width: 650px;
+    height: 500px;
     border-radius: 10px;
-    margin: left;
-    margin-left: 10px;
 }
-.gkep11{
-   width: 400px;
+.galhatter{
+    background-color: rgba(154, 105, 15, 0.3);
     border-radius: 10px;
-    margin: auto;
-   margin-left: -10px;
-   
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
-.gkep2{
-    background-color: rgba(154, 105, 15, 0.3);
-    height: 350px;
-    width: 350px;
-    border-radius: 10px;
-    margin: auto;
-    
+.hgomb{
+    font-size: 40px;
+    background-color: rgba(59, 202, 167, 0.7);
+    margin-top: 200px;
+    margin-left: 30px;
 }
-.gkep3{
-    background-color: rgba(154, 105, 15, 0.3);
-    height: 350px;
-    width: 350px;
+.hgomb:hover{background-color: rgba(59, 202, 167, 0.7);}
+
+.hcim{
+    background-color: rgba(59, 202, 167, 0.9);
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    margin-top: -240px;
+    margin-left: -250px;
+    z-index: 1000;
+    position: relative;
     border-radius: 10px;
+    font-size: 40px;
+    font-weight: 400;}
+
+.wgomb{
+    font-size: 40px;
+    background-color: rgba(59, 202, 167, 0.7);
+    margin-top: 100px;
+    margin-left: 70px;
+        
+    }
+.wgomb:hover{background-color: rgba(59, 202, 167, 0.7);}
     
-    
-}
-.gkep4{
-    background-color: rgba(154, 105, 15, 0.3);
-    height: 350px;
-    width: 350px;
+.wcim{
+    background-color: rgba(59, 202, 167, 0.9);
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    margin-top:30px;
+    margin-left:500px; 
+    z-index: 1000;
+    position: relative;
     border-radius: 10px;
+    font-size: 40px;
+    font-weight: 400;}
+
+        
     
-    
+.wellness1{
+        margin-left: 63px;
+        width: 650px;
+        height: 500px;
+        border-radius: 10px;
+        
 }
-.gkepmappa{
+
+
+.hotel{
+    background-color: rgba(154, 105, 15, 0.3);
+    border-radius: 20px;
     margin: auto;
     margin-top: 20px;
+    
+}
+.hotelkep{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.hotelkep1{
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.hvissza, .hvissza:hover{
+    margin-top: 80px;
+    margin-left: -140px;
+    background-color: rgba(59, 202, 167, 0.7);
+    border-radius: 20px;
+}
+
+.wellness{
+    background-color: rgba(154, 105, 15, 0.3);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    
+    padding-bottom: 25px;
+}
+
+.wellnesskep{
+    margin-top: 35px;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left:20px ;
+}
+
+.wellnesskep1{
+    margin-top: 35px;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.wellnesskepu{
+    margin-top: 35px;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left:20px ;
     margin-bottom: 10px;
 }
 
 
 
-
-
-
-
-
-
-
+.wvissza, .wvissza:hover{
+    margin-top: 100px;
+    background-color: rgba(59, 202, 167, 0.7);
+    border-radius: 20px;
+}
 
 
 
